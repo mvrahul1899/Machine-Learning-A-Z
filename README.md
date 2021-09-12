@@ -38,32 +38,20 @@ o	Apriori
 o	Eclat
 
 
-•	Part 6 - Reinforcement Learning
-o	Upper Confidence Bound (UCB)
-o	Thompson Sampling
-o	Q-Learning
-
-
-•	Part 7 - Natural Language Processing
+•	Part 6 - Natural Language Processing
 o	Natural Language Processing
 	Decision Tree
 	Random Forest
 	Max Entropy
 
 
-•	Part 8 - Deep Learning
-o	Artificial Neural Networks(ANN)
-o	Convolutional Neural Netwroks(CNN)
-o	Recurrent Neural Networks(RNN)
-
-
-•	Part 9 - Dimensionality Reduction
+•	Part 7 - Dimensionality Reduction
 o	Principal Component Analysis
 o	Linear Discriminant Analysis
 o	kernel PCA
 
 
-•	Part 10 - Model Selection & Boosting
+•	Part 8 - Model Selection & Boosting
 o	Model Selection
 o	XGBoost
 
