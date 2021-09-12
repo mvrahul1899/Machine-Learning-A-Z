@@ -1,12 +1,12 @@
-<h1>Course Layout</h1>
+<h1>Layout</h1>
 
-•	Part 1 - Data Preprocessing
+•	Part 0 - Data Preprocessing
 o	Missing Data
 o	Categorical Data
 o	Template For Preprocessing Data (General Steps)
 
 
-•	Part 2 - Regression
+•	Part 1 - Regression
 o	Simple Linear Regression
 o	Multiple Linear Regression
 o	Polynomial regression
@@ -17,7 +17,7 @@ o	Evaluating Regression Model
 o	Regularisation Methods
 
 
-•	Part 3 - Classification
+•	Part 2 - Classification
 o	Logistic Regression
 o	K-Nearest Neighbors (K-NN)
 o	Support Vector Machine (SVM)
@@ -28,30 +28,30 @@ o	Random Forest Classification
 o	Evaluating Classification Model
 
 
-•	Part 4 - Clustering
+•	Part 3 - Clustering
 o	K-Means Clustering
 o	Hierarchical Clustering
 
 
-•	Part 5 - Association Rule Learning
+•	Part 4 - Association Rule Learning
 o	Apriori
 o	Eclat
 
 
-•	Part 6 - Natural Language Processing
+•	Part 5 - Natural Language Processing
 o	Natural Language Processing
 	Decision Tree
 	Random Forest
 	Max Entropy
 
 
-•	Part 7 - Dimensionality Reduction
+•	Part 6 - Dimensionality Reduction
 o	Principal Component Analysis
 o	Linear Discriminant Analysis
 o	kernel PCA
 
 
-•	Part 8 - Model Selection & Boosting
+•	Part 7 - Model Selection & Boosting
 o	Model Selection
 o	XGBoost
 
